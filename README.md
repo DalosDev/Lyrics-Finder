@@ -21,7 +21,7 @@ Features:<br />
   - Authetication
   - Analytics
 <br />
-Language: Swift
+Language: Swift <br />
 Device: iPhone <br />
 Deployment Target: iOS 9.3+<br />
 
