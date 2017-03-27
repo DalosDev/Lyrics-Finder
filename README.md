@@ -11,16 +11,19 @@ Explore public domain lyrics
 Search by Artist, song name, lyrics
 Save your favourite lyrics
 Share your favourite lyrics to your friends
+
 Device: iPhone 
 Deployment Target: iOS 9.3+
 
-Public Domain: The status of a published work or invention upon which the copyright or patent has expired or which has not been patented or subject to copyright. It may thus be freely used by the public.
-
-All images and lyrics used in the app are in the public domain.
+--------------------------------------------------
 
 <img src="Mockup_Explore_PD.png" width="333" height="600" />
 <img src="Mockup_Search_PD.png" width="333" height="600" />
 <img src="Mockup_Save_PD.png" width="333" height="600" />
+
+Public Domain: The status of a published work or invention upon which the copyright or patent has expired or which has not been patented or subject to copyright. It may thus be freely used by the public.
+
+All images and lyrics used in the app are in the public domain.
 
 Credit:<br />
 Comment white oval bubble free icon made by Dave Gandy from www.flaticon.com  <br />
