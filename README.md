@@ -5,7 +5,10 @@ Native iOS Demo App for exploring free public domain lyrics<br />
 [Download now](https://dalosdev.github.io/LyricsFinder/Download.html)<br />
 <br />
 Features:<br />
-- Email registration account<br />
+- Email registration<br />
+  - Create new account
+  - Log in existing account
+  - Log out
 - Explore trending public domain lyrics<br />
 - Search by Artist, song name, lyrics<br />
 - Save your favourite lyrics<br />
