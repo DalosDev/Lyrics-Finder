@@ -6,11 +6,15 @@ Demo App for exploring free public domain lyrics<br />
 <br />
 Features:<br />
 <br />
-Email registration account<br />
-Explore public domain lyrics<br />
-Search by Artist, song name, lyrics<br />
-Save your favourite lyrics<br />
-Share your favourite lyrics to your friends<br />
+- Email registration account<br />
+- Explore trending public domain lyrics<br />
+- Search by Artist, song name, lyrics<br />
+- Save your favourite lyrics<br />
+- Share your favourite lyrics to your friends<br />
+- Google Firebase integration<br />
+  - Realtime database
+  - Authetication
+  - Analytics
 <br />
 Device: iPhone <br />
 Deployment Target: iOS 9.3+<br />
