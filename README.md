@@ -1,21 +1,24 @@
 # LyricsFinder
 
-Demo App for exploring free public domain lyrics<br />
+Native iOS Demo App for exploring free public domain lyrics<br />
 <br />
 [Download now](https://dalosdev.github.io/LyricsFinder/Download.html)<br />
 <br />
 Features:<br />
-<br />
 - Email registration account<br />
 - Explore trending public domain lyrics<br />
 - Search by Artist, song name, lyrics<br />
 - Save your favourite lyrics<br />
 - Share your favourite lyrics to your friends<br />
+- User profile
+- About
+- Welcome walkthrough screenshot introduction when user enter the app for the 1st time
 - Google Firebase integration<br />
   - Realtime database
   - Authetication
   - Analytics
 <br />
+Language: Swift
 Device: iPhone <br />
 Deployment Target: iOS 9.3+<br />
 
