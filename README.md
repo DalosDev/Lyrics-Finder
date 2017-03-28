@@ -5,7 +5,7 @@ Native iOS Demo App for exploring free public domain lyrics<br />
 [Download now](https://dalosdev.github.io/LyricsFinder/Download.html)<br />
 <br />
 Features:<br />
-- Email registration<br />
+- Email registration
   - Create new account
   - Log in existing account
   - Log out
@@ -15,11 +15,19 @@ Features:<br />
 - Share your favourite lyrics to your friends<br />
 - User profile
 - About
-- Welcome walkthrough screenshot introduction when user enter the app for the 1st time
-- Google Firebase integration<br />
+- Google Firebase integration
   - Realtime database
   - Authetication
   - Analytics
+- UI
+  - Welcome walkthrough page view
+  - Search bar
+  - Table view
+  - Swipable table cells
+  - Navigation between view controllers
+  - Collection view
+  - Side menu
+  - Loading bar
 
 Language: Swift <br />
 Device: iPhone <br />
