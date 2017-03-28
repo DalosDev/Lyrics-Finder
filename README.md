@@ -20,7 +20,7 @@ Features:<br />
   - Realtime database
   - Authetication
   - Analytics
-<br />
+
 Language: Swift <br />
 Device: iPhone <br />
 Deployment Target: iOS 9.3+<br />
