@@ -1,9 +1,9 @@
 # LyricsFinder
 
 Native iOS Demo App for exploring free public domain lyrics<br />
-```html
+
 <a href="mailto:dalosdev@gmail.com">Request Demo</a>
-```
+
 Features:<br />
 - Email registration
   - Create new account
